@@ -1,7 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Sci of Soc"
+    url: /scisoc/
+  - title: "Research"	
+    url: /research/
+  - title: "Code and Tools"	
+    url: /codetools/
+  - title: "Blogs"	
+    url: /blogs/
+  # - title: "Quick-Start Guide"
+  # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
