@@ -1,9 +1,9 @@
 ---
 layout: home
-permalink: /codetools
-title: "Code and tools"
+permalink: /codes
+title: "Codes"
 excerpt: "code and toolls webpage."
-search_omit: true
+search_omit: false
 headline: ""
 layout: single
 author_profile: true

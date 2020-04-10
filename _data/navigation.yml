@@ -1,13 +1,16 @@
 # main links
 main:
-  - title: "Sci of Soc"
-    url: /scisoc/
   - title: "Research"	
     url: /research/
-  - title: "Code and Tools"	
-    url: /codetools/
+  - title: "Publications"	
+    url: /publications/
+  - title: "Codes"	
+    url: /codes/
   - title: "Blogs"	
     url: /blogs/
+  - title: "Sociology of Science"
+    url: /scisoc/
+
   # - title: "Quick-Start Guide"
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
