@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 permalink: /codes
 title: "Codes"
 excerpt: "code and toolls webpage."
