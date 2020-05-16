@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /research
+permalink: /research/research/
 title: "Research"
 excerpt: "An overview of my research."
 search_omit: false
