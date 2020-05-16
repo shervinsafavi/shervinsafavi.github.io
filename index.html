@@ -5,13 +5,20 @@ excerpt: "Shervin Safavi personal webpage."
 author_profile: true
 ---
 
+<!-- <p align="justify"> -->
+<!--   I am CEO/Co-Founder of <a target="_blank"  href="https://reason.al">Reasonal Inc</a>. I am passionate about solving some of the most important problems related to spread misinformation and lack of civility on online discourse using Machine Learning. Previously, I was a PhD student at <a target="_blank" href="https://is.tuebingen.mpg.de">Max Planck Institute for Intelligent Systems</a>.</p> -->
+
 <p align="justify">
-  I am CEO/Co-Founder of <a target="_blank"  href="https://reason.al">Reasonal Inc</a>. I am passionate about solving some of the most important problems related to spread misinformation and lack of civility on online discourse using Machine Learning. Previously, I was a PhD student at <a target="_blank" href="https://is.tuebingen.mpg.de">Max Planck Institute for Intelligent Systems</a>.</p>
+  I'm a system and computational neuroscientist [in training]. I started my scientific journey from Physics, and after my undergrad in Physics I continued with neuroscience. At the moment I'm doing my PhD in <a target="_blank" href="https://www.kyb.tuebingen.mpg.de/2549/en">Max Planck Institute for Biological Cybernetics</a>. My primary research in the Logothetis lab is establishing a bridge between different scales by exploting the cooperative neural activities free to check my broader research
+<a target="_blank" href={% link _pages/research/research.md %}>here</a>.
+<!-- [page inside research]({% link _pages/research/research.md %}). -->
+</p>
+
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_news | default: "Recent news" }}</h3>
 
 
-{% for post in site.data.news limit:2 %}
+{% for post in site.data.news limit:3 %}
 {% include news-single.html %}
 {% endfor %}
 

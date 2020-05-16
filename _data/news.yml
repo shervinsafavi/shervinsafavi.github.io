@@ -1,8 +1,17 @@
-- title: New preprint!
-  date: 15 April 2020
-  abstract: A new preprint on method for quantifying the relationship betwwen point processes (like spikes) and continious signals (like LFPs).
-  link: "https://reason.al"
+- title: New theory preprint!
+  date: 8 May 2020
+  abstract: A new theory preprint on  quantifying the relationship between point processes (like spikes) and continuous signals (like LFPs).
+  link: "https://arxiv.org/abs/2005.04034"
 
+
+- title: 2 new preprint about visual awarness!
+  date: 28 January 2020
+  abstract: Two new preprints on neural mechanism involved in visual awarness. <a href="https://www.biorxiv.org/content/10.1101/2020.01.28.921841v1.abstract">One</a> on decoding the contents of visual awareness from PFC neural populations, and the <a href="https://www.biorxiv.org/content/10.1101/2020.01.29.924928v3">other one</a> on the relationship between PFC [persumued] state fluctuations and perceptual switches.
+
+- title: 2 accepted abstract in Cosyne 2020!
+  date: 13 January 2020
+  abstract: Two accepted abstract in <a href="http://cosyne.org/cosyne20/Cosyne2020_program_book.pdf">Cosyne 2020</a>. One on a multivariate method for investigating spike-LFP coupling (II-48), and the other one on signatures of criticality observed in efficient coding network (I-100).
+  link: "http://cosyne.org/cosyne20/Cosyne2020_program_book.pdf"
 
 - title: I moved to Reasonal Inc.
   date: 1 Nov. 2019
