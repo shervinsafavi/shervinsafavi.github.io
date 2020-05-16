@@ -4,12 +4,12 @@ main:
     url: /research/
   - title: "Publications"	
     url: /publications/
-  - title: "Codes"	
-    url: /codes/
-  - title: "Blogs"	
-    url: /blogs/
-  - title: "Sociology of Science"
-    url: /scisoc/
+  # - title: "Codes"	
+    # url: /codes/
+  # - title: "Blogs"	
+    # url: /blogs/
+  # - title: "Sociology of Science"
+    # url: /scisoc/
 
   # - title: "Quick-Start Guide"
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
