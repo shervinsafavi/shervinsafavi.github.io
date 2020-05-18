@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /publications
+permalink: /publications/
 title: "Publications"
 excerpt: "List of publications."
 search_omit: false
