@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Shervin Safavi"
   avatar           : "/assets/images/ferFeri.png" # path of avatar image, e.g. "/assets/images/x.jpg"
-  bio              : "PhD student in MPI for Biological Cybernetics, trying to understand the brain function and dysfunction in a principled way."
+  bio              : "Post-doc in Peter Dayan's group, trying to understand the brain function and dysfunction in a principled way."
   location         : # "Somewhere"
   email            : 
   links:
