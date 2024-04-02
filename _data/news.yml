@@ -3,6 +3,11 @@
   abstract: I have started my group at the Medical Campus of TU Dresden. At the Computational Machinery of Cognition (CMC) lab, we want to understand the computations that support our cognition, and also the multi-scale machinery that implements these computations. We closely collaborate with experimental and computational labs to develop new tools, computational models, and experimental paradigms to understand the computational machinery of cognition.
   link: "http://cmclab.org"
 
+- title: New paper published in Neuron
+  date: 29 August 2022
+  abstract: Our paper with Peter Dayan on "Multistability, Perceptual Value, and Internal Foraging" has just been published in Neuron. We propose a new framework for understanding perceptual multistability based on value-based decision-making instead of the passive Helmholtzian inference.
+  link: "https://doi.org/10.1016/j.neuron.2022.07.024"
+
 - title: New theory preprint!
   date: 8 May 2020
   abstract: A new theory preprint on  quantifying the relationship between point processes (like spikes) and continuous signals (like LFPs).
