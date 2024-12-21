@@ -1,3 +1,13 @@
+- title: New preprint!
+  date: 11 December 2024
+  abstract: Our second paper with Peter Dayan on a decision-theoretic approach to perceptual multistability is now available as a preprint.
+  link: "https://www.biorxiv.org/content/10.1101/2024.12.06.627286v1"
+
+- title: New paper published in PNAS!
+  date: 1 October 2024
+  abstract: Our brief and sweet results on "signatures of criticality in efficient coding networks" is now published in PNAS. We showed that that optimizing a network for doing a certain computation, can also lead to one of the ubiquitous aspects of neural dynamics (and the sub-optimal computations lack of it).
+  link: "https://www.pnas.org/doi/10.1073/pnas.2302730121"
+
 - title: William James Prize
   date: 18 June 2024
   abstract: I am honored to be selected for the 21st William James Prize for Contributions to the Study of Consciousness, for our paper with Peter Dayan on "Multistability, perceptual value, and internal foraging".
